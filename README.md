@@ -1,6 +1,8 @@
-# C1_RA1
+# C1_RA1/RA2/RA3
 Thomas Barrero, Samuel Arevalo, Alejandra Chaves, Nicolas Aguirre
 
+Link de Drive donde está actualizada completa documentación y talleres del trimestre:
+https://drive.google.com/drive/folders/1WSLBkK-Dzs2egxFw449nPaxy2NIJjf-t?usp=sharing
 
-VIERNES 24/072026
--Nicolas: casos de uso del CU-013 Y CU-013
+Link repositorio del proyecto:
+https://github.com/Proyecto-Equipo-6
