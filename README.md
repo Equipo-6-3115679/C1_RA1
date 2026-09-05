@@ -1,6 +1,6 @@
-# C1_RA1
+# C1_RA1/RA2/RA3
 Thomas Barrero, Samuel Arevalo, Alejandra Chaves, Nicolas Aguirre
 
+Todo actualizado de documentación y talleres de Trimestre 7 en el siguiente link:
 
-VIERNES 24/072026
--Nicolas: casos de uso del CU-013 Y CU-013
+https://drive.google.com/drive/folders/1WSLBkK-Dzs2egxFw449nPaxy2NIJjf-t?usp=sharing
